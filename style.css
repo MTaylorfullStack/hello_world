@@ -1,6 +1,6 @@
 #wrap{
     width: 900px;
-    background-color: blue;
+    background-color: purple;
     font-family: sans-serif;
     text-align: center;
     margin: 0px auto;
@@ -14,4 +14,5 @@ h1{
 
 p {
     padding: 25px;
+    background-color: aquamarine;
 }
