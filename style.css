@@ -1,0 +1,17 @@
+#wrap{
+    width: 900px;
+    background-color: blue;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0px auto;
+    height: 500px;
+    padding: 50px;
+}
+
+h1{
+    color: red;
+}
+
+p {
+    padding: 25px;
+}
